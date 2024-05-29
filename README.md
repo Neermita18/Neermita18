@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 <div class= "header" align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHR1Z3NrYzZpdzNpZDB1ZDF5anNwcmJzZTIybnk3N3lhNmltcWNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KYBnCWw9zKqOXw39W0/giphy.gif">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHR1Z3NrYzZpdzNpZDB1ZDF5anNwcmJzZTIybnk3N3lhNmltcWNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KYBnCWw9zKqOXw39W0/giphy.gif" width=100>
 </div>
 <!--
 **Neermita18/Neermita18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
