@@ -11,9 +11,9 @@
 </div>
 
 
-🔭 
+🔭 ## I'm working on
 - [ ] Spatial Gene Enhancement using the integration of single cell sequences with spatial image data. <br>
-      - [ ] I'm also working on analysing the mutations of EGFR and KRAS genes in NSCLC through CT and PET scans.
+- [ ] Analysing the mutations of EGFR and KRAS genes in NSCLC through CT and PET scans.
       
 
 <!--
