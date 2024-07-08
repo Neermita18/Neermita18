@@ -10,10 +10,12 @@
        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdtcGc2MnFlZmZydnczOXRhemtuYjF6OTBqc2psYW85dmJ1OHZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PhUhsroF1r0I8fAKbj/giphy.gif" width=100>
 </div>
 
-## I'm currently working on 🔭 
+## I'm currently working  🔭 
 
-- [ ] Spatial Gene Enhancement using the integration of single cell sequences with spatial image data. <br>
-- [ ] Analysing the mutations of EGFR and KRAS genes in NSCLC through CT and PET scans.
+- [ ] At the Centre of Bioinformatics Research and Technology as a Scientific Content Researcher and Writer
+- [ ] On Spatial Gene Enhancement using the integration of single cell sequences with spatial image data. <br>
+- [ ] On Analysing the mutations of EGFR and KRAS genes in NSCLC through CT and PET scans.
+
       
 
 <!--
