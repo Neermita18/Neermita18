@@ -14,7 +14,7 @@
 
 - [ ] At the Centre of Bioinformatics Research and Technology as a Scientific Content Researcher and Writer. 
 - [ ] On Spatial Gene Enhancement using the integration of single cell sequences with spatial image data. <br>
-- [ ] On Analysing the mutations of EGFR and KRAS genes in NSCLC through CT and PET scans.
+- [ ] On Analysing the mutations of EGFR and KRAS genes in NSCLC through tumor segmentations of PET/CT scans.
 
       
 
