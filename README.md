@@ -10,11 +10,11 @@
        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdtcGc2MnFlZmZydnczOXRhemtuYjF6OTBqc2psYW85dmJ1OHZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PhUhsroF1r0I8fAKbj/giphy.gif" width=100>
 </div>
 
-## I'm currently working  🔭 
+## I'm currently working on 🔭 
 
-- [ ] At the Centre of Bioinformatics Research and Technology as a Scientific Content Researcher and Writer. 
-- [ ] On Spatial Gene Enhancement using the integration of single cell sequences with spatial image data. <br>
-- [ ] On Analysing the mutations of EGFR and KRAS genes in NSCLC through tumor segmentations of PET/CT scans.
+- [ ] Analysis of Multiomics Data of Breast Cancer to identify biomarkers and create a pipeline to predict tumor stages @ BITS Pilani <br>
+- [ ] Spatial Gene Enhancement using the integration of single cell sequences with spatial image data @ IITJ<br>
+- [ ] Utilising tumor PET/CT scans to assess the tumor gene mutations using Multi-task learning with Transformers @ IITJ
 
       
 
