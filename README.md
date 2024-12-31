@@ -12,7 +12,7 @@
 
 ## I'm currently working on 🔭 
 
-- [ ] Analysis of Multiomics Data of Breast Cancer to identify biomarkers and create a pipeline to predict tumor stages @ BITS Pilani <br>
+- [ ] Analysis of Multiomics Data from Breast Cancer to identify early-stage biomarkers and create a pipeline to predict tumor stages @ BITS Pilani <br>
 - [ ] Spatial Gene Enhancement using the integration of single cell sequences with spatial image data @ IIT Jodhpur<br>
 - [ ] Utilising tumor PET/CT scans to assess the tumor gene mutations using Multi-Task Learning with Transformers @ IIT Jodhpur
 
