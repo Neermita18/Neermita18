@@ -12,9 +12,9 @@
 
 ## I'm currently working on 🔭 
 
-- [ ] Analysis of Multiomics Data from Breast Cancer to identify early-stage biomarkers and create a pipeline to predict tumor stages @ BITS Pilani <br>
-- [ ] Spatial Gene Enhancement using the integration of single cell sequences with spatial image data @ IIT Jodhpur<br>
-- [ ] Utilising tumor PET/CT scans to assess the tumor gene mutations using Multi-Task Learning with Transformers @ IIT Jodhpur
+- [ ] Utilising tumor PET/CT scans to assess the tumor gene mutations using Multi-Task Learning with Transformers @ Department of CSE
+- [ ] Computational Modeling of Parkinsonian Freezing of Gait During Turns @ MuraliLab of Cognitive and Computational Neuroscience
+- [ ] Accelerating MAFFT on FPGAs @ Department of EE
 
       
 
