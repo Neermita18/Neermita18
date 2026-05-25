@@ -1,6 +1,6 @@
 <div class="header" align="center">
-      <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBiMnE0cTR0dDVqZjR4dW93MXhseHc5NzFkMTN3d2Zwc205ejBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5YEgIWPd2TlR6NHfg/giphy.gif" height=250, width=500>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmUyZHZwbXgwODR6ZmFzbmRseHViNTU0NmtwcWNnamVqaTM2ZTVxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rgH58HC8tx3pu/giphy.gif" width=100>
+      <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBiMnE0cTR0dDVqZjR4dW93MXhseHc5NzFkMTN3d2Zwc205ejBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5YEgIWPd2TlR6NHfg/giphy.gif"  width=200>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmUyZHZwbXgwODR6ZmFzbmRseHViNTU0NmtwcWNnamVqaTM2ZTVxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rgH58HC8tx3pu/giphy.gif" width=200>
 </div>
 
 
