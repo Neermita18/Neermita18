@@ -11,7 +11,7 @@
        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdtcGc2MnFlZmZydnczOXRhemtuYjF6OTBqc2psYW85dmJ1OHZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PhUhsroF1r0I8fAKbj/giphy.gif" width=100>
 </div>
 
-### I'm really interested about the neural mechanisms underlying learning, memory, and cognition
+## I'm really interested in the neural mechanisms underlying learning, memory, and cognition
 ##
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXluM244MWEyYm42a3ZrMW9mczc3NzAzYXdoaTJ3cWF5d3libjBsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tNWx1zIvQz0hq/giphy.gif">        
