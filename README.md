@@ -5,12 +5,12 @@
 </div>
 
 ## Hello there! I'm Neermita.
-## 
+<hr> 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXluM244MWEyYm42a3ZrMW9mczc3NzAzYXdoaTJ3cWF5d3libjBsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tNWx1zIvQz0hq/giphy.gif">        
 </div>
 
-### I'm really interested in the neural mechanisms underlying learning, memory, and cognition
+### I'm really interested in the neural mechanisms underlying learning, memory, and cognition!
 <hr>
 
 
