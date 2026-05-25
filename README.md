@@ -4,7 +4,7 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cjllbjh2c2xoZzVuc2Y3dTU4aHUxenp4eW51OGJ1bjc4MjBociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zdhgBtpANvh6G6ERNz/giphy.gif" height=250, width=230>
 </div>
 
-## I'm really interested in learning how the brain functions
+## I'm really interested about the neural mechanisms underlying learning, memory, and cognition
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXluM244MWEyYm42a3ZrMW9mczc3NzAzYXdoaTJ3cWF5d3libjBsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tNWx1zIvQz0hq/giphy.gif">        
 </div>
