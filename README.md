@@ -10,8 +10,16 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXluM244MWEyYm42a3ZrMW9mczc3NzAzYXdoaTJ3cWF5d3libjBsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tNWx1zIvQz0hq/giphy.gif">        
 </div>
 
-### I'm really interested in the neural mechanisms underlying learning, memory, and cognition!
+## I'm really interested in ⚡ 
 <hr>
+- [ ] Understanding the neural mechanisms underlying learning, memory, and cognition
+- [ ] Brain-computer interfaces and decoding neural signals
+- [ ] Computational neuroscience and modeling brain function
+- [ ] Biomedical signal processing and interpreting physiological data
+- [ ] Medical image analysis for understanding disease and improving diagnosis
+- [ ] Edge deployment and optimizing models for real-world healthcare applications
+
+
 
 
 
