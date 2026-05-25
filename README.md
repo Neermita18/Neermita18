@@ -11,7 +11,6 @@
 </div>
 
 ## I'm really interested in ⚡ 
-<hr>
 - [ ] Understanding the neural mechanisms underlying learning, memory, and cognition
 - [ ] Brain-computer interfaces and decoding neural signals
 - [ ] Computational neuroscience and modeling brain function
