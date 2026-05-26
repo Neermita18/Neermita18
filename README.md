@@ -23,9 +23,8 @@
 
 
 ## I'm currently working on 🔭 
-
-- [ ] Utilising tumor PET/CT scans to assess the tumor gene mutations using Multi-Task Learning with Transformers @ Department of CSE
 - [ ] Computational Modeling of Parkinsonian Freezing of Gait During Turns @ CBSA, School of Artificial Intelligence and Data Science
+- [ ] Utilising tumor PET/CT scans to assess the tumor gene mutations using Multi-Task Learning with Transformers @ Department of CSE
 - [ ] Accelerating MAFFT on FPGAs @ Department of EE
 
       
